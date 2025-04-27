@@ -10,6 +10,9 @@ gh repo list NemoOnManjaro --limit 4000 | while read -r repo _; do
     if [ -e "$dirname" ]; then
         continue
     fi
+    if [ "$dirname" = "main" ]; then
+        continue
+    fi
 
     git submodule add -b main git@github.com:${repo}.git
 #    git clone git@github.com:${repo}.git
