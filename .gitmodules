@@ -1,0 +1,520 @@
+[submodule "main"]
+	path = main
+	url = git@github.com:NemoOnManjaro/main.git
+	branch = main
+[submodule "lipstick-glacier-home"]
+	path = lipstick-glacier-home
+	url = git@github.com:NemoOnManjaro/lipstick-glacier-home.git
+	branch = main
+[submodule "maliit-nemo-keyboard"]
+	path = maliit-nemo-keyboard
+	url = git@github.com:NemoOnManjaro/maliit-nemo-keyboard.git
+	branch = main
+[submodule "maliit-framework-qt6"]
+	path = maliit-framework-qt6
+	url = git@github.com:NemoOnManjaro/maliit-framework-qt6.git
+	branch = main
+[submodule "qt6-quickcontrols-nemo"]
+	path = qt6-quickcontrols-nemo
+	url = git@github.com:NemoOnManjaro/qt6-quickcontrols-nemo.git
+	branch = main
+[submodule "qt6-quickcontrols-nemo-examples"]
+	path = qt6-quickcontrols-nemo-examples
+	url = git@github.com:NemoOnManjaro/qt6-quickcontrols-nemo-examples.git
+	branch = main
+[submodule "glacier-packagemanager"]
+	path = glacier-packagemanager
+	url = git@github.com:NemoOnManjaro/glacier-packagemanager.git
+	branch = main
+[submodule "glacier-devicelock-plugin"]
+	path = glacier-devicelock-plugin
+	url = git@github.com:NemoOnManjaro/glacier-devicelock-plugin.git
+	branch = main
+[submodule "nemo-qml-plugin-devicelock"]
+	path = nemo-qml-plugin-devicelock
+	url = git@github.com:NemoOnManjaro/nemo-qml-plugin-devicelock.git
+	branch = main
+[submodule "glacier-browser"]
+	path = glacier-browser
+	url = git@github.com:NemoOnManjaro/glacier-browser.git
+	branch = main
+[submodule "glacier-settings"]
+	path = glacier-settings
+	url = git@github.com:NemoOnManjaro/glacier-settings.git
+	branch = main
+[submodule "glacier-calc"]
+	path = glacier-calc
+	url = git@github.com:NemoOnManjaro/glacier-calc.git
+	branch = main
+[submodule "glacier-messages"]
+	path = glacier-messages
+	url = git@github.com:NemoOnManjaro/glacier-messages.git
+	branch = main
+[submodule "glacier-contacts"]
+	path = glacier-contacts
+	url = git@github.com:NemoOnManjaro/glacier-contacts.git
+	branch = main
+[submodule "glacier-gallery"]
+	path = glacier-gallery
+	url = git@github.com:NemoOnManjaro/glacier-gallery.git
+	branch = main
+[submodule "qtdocgallery"]
+	path = qtdocgallery
+	url = git@github.com:NemoOnManjaro/qtdocgallery.git
+	branch = main
+[submodule "glacier-weather"]
+	path = glacier-weather
+	url = git@github.com:NemoOnManjaro/glacier-weather.git
+	branch = main
+[submodule "glacier-testtool"]
+	path = glacier-testtool
+	url = git@github.com:NemoOnManjaro/glacier-testtool.git
+	branch = main
+[submodule "glacier-music"]
+	path = glacier-music
+	url = git@github.com:NemoOnManjaro/glacier-music.git
+	branch = main
+[submodule "glacier-filemuncher"]
+	path = glacier-filemuncher
+	url = git@github.com:NemoOnManjaro/glacier-filemuncher.git
+	branch = main
+[submodule "glacier-camera"]
+	path = glacier-camera
+	url = git@github.com:NemoOnManjaro/glacier-camera.git
+	branch = main
+[submodule "glacier-alarm-listener"]
+	path = glacier-alarm-listener
+	url = git@github.com:NemoOnManjaro/glacier-alarm-listener.git
+	branch = main
+[submodule "glacier-calendar"]
+	path = glacier-calendar
+	url = git@github.com:NemoOnManjaro/glacier-calendar.git
+	branch = main
+[submodule "glacier-alarmclock"]
+	path = glacier-alarmclock
+	url = git@github.com:NemoOnManjaro/glacier-alarmclock.git
+	branch = main
+[submodule "nemo-device-pinephone"]
+	path = nemo-device-pinephone
+	url = git@github.com:NemoOnManjaro/nemo-device-pinephone.git
+	branch = main
+[submodule "glacier-pinquery"]
+	path = glacier-pinquery
+	url = git@github.com:NemoOnManjaro/glacier-pinquery.git
+	branch = main
+[submodule "glacier-dialer"]
+	path = glacier-dialer
+	url = git@github.com:NemoOnManjaro/glacier-dialer.git
+	branch = main
+[submodule "glacier-wayland-session"]
+	path = glacier-wayland-session
+	url = git@github.com:NemoOnManjaro/glacier-wayland-session.git
+	branch = main
+[submodule "geoclue1"]
+	path = geoclue1
+	url = git@github.com:NemoOnManjaro/geoclue1.git
+	branch = main
+[submodule "glacier-settings-developermode"]
+	path = glacier-settings-developermode
+	url = git@github.com:NemoOnManjaro/glacier-settings-developermode.git
+	branch = main
+[submodule "qt6-lipstick"]
+	path = qt6-lipstick
+	url = git@github.com:NemoOnManjaro/qt6-lipstick.git
+	branch = main
+[submodule "bluez-qt"]
+	path = bluez-qt
+	url = git@github.com:NemoOnManjaro/bluez-qt.git
+	branch = main
+[submodule "qt6-glacier-app"]
+	path = qt6-glacier-app
+	url = git@github.com:NemoOnManjaro/qt6-glacier-app.git
+	branch = main
+[submodule "google-opensans-fonts"]
+	path = google-opensans-fonts
+	url = git@github.com:NemoOnManjaro/google-opensans-fonts.git
+	branch = main
+[submodule "nemo-theme-openmoko"]
+	path = nemo-theme-openmoko
+	url = git@github.com:NemoOnManjaro/nemo-theme-openmoko.git
+	branch = main
+[submodule "presage2-lang"]
+	path = presage2-lang
+	url = git@github.com:NemoOnManjaro/presage2-lang.git
+	branch = main
+[submodule "presage2"]
+	path = presage2
+	url = git@github.com:NemoOnManjaro/presage2.git
+	branch = main
+[submodule "nemo-qml-plugin-fingerprint"]
+	path = nemo-qml-plugin-fingerprint
+	url = git@github.com:NemoOnManjaro/nemo-qml-plugin-fingerprint.git
+	branch = main
+[submodule "nemo-qml-plugin-signon"]
+	path = nemo-qml-plugin-signon
+	url = git@github.com:NemoOnManjaro/nemo-qml-plugin-signon.git
+	branch = main
+[submodule "nemo-qml-plugin-calendar"]
+	path = nemo-qml-plugin-calendar
+	url = git@github.com:NemoOnManjaro/nemo-qml-plugin-calendar.git
+	branch = main
+[submodule "buteo-sync-plugins-social"]
+	path = buteo-sync-plugins-social
+	url = git@github.com:NemoOnManjaro/buteo-sync-plugins-social.git
+	branch = main
+[submodule "libsocialcache"]
+	path = libsocialcache
+	url = git@github.com:NemoOnManjaro/libsocialcache.git
+	branch = main
+[submodule "nemo-qml-plugin-alarms"]
+	path = nemo-qml-plugin-alarms
+	url = git@github.com:NemoOnManjaro/nemo-qml-plugin-alarms.git
+	branch = main
+[submodule "qt6-feedback-haptics-native-vibrator"]
+	path = qt6-feedback-haptics-native-vibrator
+	url = git@github.com:NemoOnManjaro/qt6-feedback-haptics-native-vibrator.git
+	branch = main
+[submodule "mkcal6"]
+	path = mkcal6
+	url = git@github.com:NemoOnManjaro/mkcal6.git
+	branch = main
+[submodule "kcalendarcore"]
+	path = kcalendarcore
+	url = git@github.com:NemoOnManjaro/kcalendarcore.git
+	branch = main
+[submodule "extra-cmake-modules"]
+	path = extra-cmake-modules
+	url = git@github.com:NemoOnManjaro/extra-cmake-modules.git
+	branch = main
+[submodule "voicecall"]
+	path = voicecall
+	url = git@github.com:NemoOnManjaro/voicecall.git
+	branch = main
+[submodule "nemo-qml-plugin-accounts"]
+	path = nemo-qml-plugin-accounts
+	url = git@github.com:NemoOnManjaro/nemo-qml-plugin-accounts.git
+	branch = main
+[submodule "nemo-qml-plugin-messages"]
+	path = nemo-qml-plugin-messages
+	url = git@github.com:NemoOnManjaro/nemo-qml-plugin-messages.git
+	branch = main
+[submodule "qmf-qt6"]
+	path = qmf-qt6
+	url = git@github.com:NemoOnManjaro/qmf-qt6.git
+	branch = main
+[submodule "commhistory-daemon"]
+	path = commhistory-daemon
+	url = git@github.com:NemoOnManjaro/commhistory-daemon.git
+	branch = main
+[submodule "libcommhistory"]
+	path = libcommhistory
+	url = git@github.com:NemoOnManjaro/libcommhistory.git
+	branch = main
+[submodule "ngfd-plugin-native-vibrator"]
+	path = ngfd-plugin-native-vibrator
+	url = git@github.com:NemoOnManjaro/ngfd-plugin-native-vibrator.git
+	branch = main
+[submodule "ngfd-settings-nemo"]
+	path = ngfd-settings-nemo
+	url = git@github.com:NemoOnManjaro/ngfd-settings-nemo.git
+	branch = main
+[submodule "ngfd"]
+	path = ngfd
+	url = git@github.com:NemoOnManjaro/ngfd.git
+	branch = main
+[submodule "fingerterm"]
+	path = fingerterm
+	url = git@github.com:NemoOnManjaro/fingerterm.git
+	branch = main
+[submodule "ohm-plugins-misc"]
+	path = ohm-plugins-misc
+	url = git@github.com:NemoOnManjaro/ohm-plugins-misc.git
+	branch = main
+[submodule "policy-settings-common"]
+	path = policy-settings-common
+	url = git@github.com:NemoOnManjaro/policy-settings-common.git
+	branch = main
+[submodule "libdres-ohm"]
+	path = libdres-ohm
+	url = git@github.com:NemoOnManjaro/libdres-ohm.git
+	branch = main
+[submodule "ohm"]
+	path = ohm
+	url = git@github.com:NemoOnManjaro/ohm.git
+	branch = main
+[submodule "libtrace-ohm"]
+	path = libtrace-ohm
+	url = git@github.com:NemoOnManjaro/libtrace-ohm.git
+	branch = main
+[submodule "mce-plugin-libhybris-nondroid"]
+	path = mce-plugin-libhybris-nondroid
+	url = git@github.com:NemoOnManjaro/mce-plugin-libhybris-nondroid.git
+	branch = main
+[submodule "libprolog"]
+	path = libprolog
+	url = git@github.com:NemoOnManjaro/libprolog.git
+	branch = main
+[submodule "swi-prolog7"]
+	path = swi-prolog7
+	url = git@github.com:NemoOnManjaro/swi-prolog7.git
+	branch = main
+[submodule "pulseaudio-policy-enforcement"]
+	path = pulseaudio-policy-enforcement
+	url = git@github.com:NemoOnManjaro/pulseaudio-policy-enforcement.git
+	branch = main
+[submodule "pulseaudio-modules-nemo"]
+	path = pulseaudio-modules-nemo
+	url = git@github.com:NemoOnManjaro/pulseaudio-modules-nemo.git
+	branch = main
+[submodule "pulseaudio-module-keepalive"]
+	path = pulseaudio-module-keepalive
+	url = git@github.com:NemoOnManjaro/pulseaudio-module-keepalive.git
+	branch = main
+[submodule "pulsecore-headers"]
+	path = pulsecore-headers
+	url = git@github.com:NemoOnManjaro/pulsecore-headers.git
+	branch = main
+[submodule "nemo-qml-plugin-contacts"]
+	path = nemo-qml-plugin-contacts
+	url = git@github.com:NemoOnManjaro/nemo-qml-plugin-contacts.git
+	branch = main
+[submodule "qt-mobility-haptics-ffmemless"]
+	path = qt-mobility-haptics-ffmemless
+	url = git@github.com:NemoOnManjaro/qt-mobility-haptics-ffmemless.git
+	branch = main
+[submodule "libprofile-qt"]
+	path = libprofile-qt
+	url = git@github.com:NemoOnManjaro/libprofile-qt.git
+	branch = main
+[submodule "buteo-sync-plugin-carddav"]
+	path = buteo-sync-plugin-carddav
+	url = git@github.com:NemoOnManjaro/buteo-sync-plugin-carddav.git
+	branch = main
+[submodule "libphonenumber-nemo"]
+	path = libphonenumber-nemo
+	url = git@github.com:NemoOnManjaro/libphonenumber-nemo.git
+	branch = main
+[submodule "buteo-mtp"]
+	path = buteo-mtp
+	url = git@github.com:NemoOnManjaro/buteo-mtp.git
+	branch = main
+[submodule "nemo-qml-plugin-systemsettings"]
+	path = nemo-qml-plugin-systemsettings
+	url = git@github.com:NemoOnManjaro/nemo-qml-plugin-systemsettings.git
+	branch = main
+[submodule "nemo-qml-plugin-connectivity"]
+	path = nemo-qml-plugin-connectivity
+	url = git@github.com:NemoOnManjaro/nemo-qml-plugin-connectivity.git
+	branch = main
+[submodule "qt6-systems"]
+	path = qt6-systems
+	url = git@github.com:NemoOnManjaro/qt6-systems.git
+	branch = main
+[submodule "profiled"]
+	path = profiled
+	url = git@github.com:NemoOnManjaro/profiled.git
+	branch = main
+[submodule "profiled-settings-nemo"]
+	path = profiled-settings-nemo
+	url = git@github.com:NemoOnManjaro/profiled-settings-nemo.git
+	branch = main
+[submodule "libusb-moded-qt"]
+	path = libusb-moded-qt
+	url = git@github.com:NemoOnManjaro/libusb-moded-qt.git
+	branch = main
+[submodule "libngf-qt"]
+	path = libngf-qt
+	url = git@github.com:NemoOnManjaro/libngf-qt.git
+	branch = main
+[submodule "libconnman-qt"]
+	path = libconnman-qt
+	url = git@github.com:NemoOnManjaro/libconnman-qt.git
+	branch = main
+[submodule "libqofonoext"]
+	path = libqofonoext
+	url = git@github.com:NemoOnManjaro/libqofonoext.git
+	branch = main
+[submodule "libqofono-qt6"]
+	path = libqofono-qt6
+	url = git@github.com:NemoOnManjaro/libqofono-qt6.git
+	branch = main
+[submodule "nemo-qml-plugin-notifications"]
+	path = nemo-qml-plugin-notifications
+	url = git@github.com:NemoOnManjaro/nemo-qml-plugin-notifications.git
+	branch = main
+[submodule "qtcontacts-sqlite"]
+	path = qtcontacts-sqlite
+	url = git@github.com:NemoOnManjaro/qtcontacts-sqlite.git
+	branch = main
+[submodule "qt6-sensors-sensorfw"]
+	path = qt6-sensors-sensorfw
+	url = git@github.com:NemoOnManjaro/qt6-sensors-sensorfw.git
+	branch = main
+[submodule "sensorfw"]
+	path = sensorfw
+	url = git@github.com:NemoOnManjaro/sensorfw.git
+	branch = main
+[submodule "buteo-syncfw"]
+	path = buteo-syncfw
+	url = git@github.com:NemoOnManjaro/buteo-syncfw.git
+	branch = main
+[submodule "signond6"]
+	path = signond6
+	url = git@github.com:NemoOnManjaro/signond6.git
+	branch = main
+[submodule "libaccounts-qt6"]
+	path = libaccounts-qt6
+	url = git@github.com:NemoOnManjaro/libaccounts-qt6.git
+	branch = main
+[submodule "libmce-qt"]
+	path = libmce-qt
+	url = git@github.com:NemoOnManjaro/libmce-qt.git
+	branch = main
+[submodule "dsme"]
+	path = dsme
+	url = git@github.com:NemoOnManjaro/dsme.git
+	branch = main
+[submodule "mce"]
+	path = mce
+	url = git@github.com:NemoOnManjaro/mce.git
+	branch = main
+[submodule "usb-moded"]
+	path = usb-moded
+	url = git@github.com:NemoOnManjaro/usb-moded.git
+	branch = main
+[submodule "systemctl-user"]
+	path = systemctl-user
+	url = git@github.com:NemoOnManjaro/systemctl-user.git
+	branch = main
+[submodule "libngf"]
+	path = libngf
+	url = git@github.com:NemoOnManjaro/libngf.git
+	branch = main
+[submodule "nemo-qml-plugin-models"]
+	path = nemo-qml-plugin-models
+	url = git@github.com:NemoOnManjaro/nemo-qml-plugin-models.git
+	branch = main
+[submodule "libmlocale"]
+	path = libmlocale
+	url = git@github.com:NemoOnManjaro/libmlocale.git
+	branch = main
+[submodule "qt6-pim"]
+	path = qt6-pim
+	url = git@github.com:NemoOnManjaro/qt6-pim.git
+	branch = main
+[submodule "nemo-qml-plugin-time"]
+	path = nemo-qml-plugin-time
+	url = git@github.com:NemoOnManjaro/nemo-qml-plugin-time.git
+	branch = main
+[submodule "timed"]
+	path = timed
+	url = git@github.com:NemoOnManjaro/timed.git
+	branch = main
+[submodule "libiodata"]
+	path = libiodata
+	url = git@github.com:NemoOnManjaro/libiodata.git
+	branch = main
+[submodule "tzdata-timed"]
+	path = tzdata-timed
+	url = git@github.com:NemoOnManjaro/tzdata-timed.git
+	branch = main
+[submodule "sailfish-access-control"]
+	path = sailfish-access-control
+	url = git@github.com:NemoOnManjaro/sailfish-access-control.git
+	branch = main
+[submodule "nemo-qml-plugin-statusnotifier"]
+	path = nemo-qml-plugin-statusnotifier
+	url = git@github.com:NemoOnManjaro/nemo-qml-plugin-statusnotifier.git
+	branch = main
+[submodule "nemo-qml-plugin-configuration"]
+	path = nemo-qml-plugin-configuration
+	url = git@github.com:NemoOnManjaro/nemo-qml-plugin-configuration.git
+	branch = main
+[submodule "nemo-qml-plugin-thumbnailer"]
+	path = nemo-qml-plugin-thumbnailer
+	url = git@github.com:NemoOnManjaro/nemo-qml-plugin-thumbnailer.git
+	branch = main
+[submodule "mlite6"]
+	path = mlite6
+	url = git@github.com:NemoOnManjaro/mlite6.git
+	branch = main
+[submodule "nemo-keepalive"]
+	path = nemo-keepalive
+	url = git@github.com:NemoOnManjaro/nemo-keepalive.git
+	branch = main
+[submodule "libiphb"]
+	path = libiphb
+	url = git@github.com:NemoOnManjaro/libiphb.git
+	branch = main
+[submodule "libdsme"]
+	path = libdsme
+	url = git@github.com:NemoOnManjaro/libdsme.git
+	branch = main
+[submodule "mce-headers"]
+	path = mce-headers
+	url = git@github.com:NemoOnManjaro/mce-headers.git
+	branch = main
+[submodule "amber-mpris"]
+	path = amber-mpris
+	url = git@github.com:NemoOnManjaro/amber-mpris.git
+	branch = main
+[submodule "libresourceqt"]
+	path = libresourceqt
+	url = git@github.com:NemoOnManjaro/libresourceqt.git
+	branch = main
+[submodule "libresource"]
+	path = libresource
+	url = git@github.com:NemoOnManjaro/libresource.git
+	branch = main
+[submodule "nemo-qml-plugin-settings"]
+	path = nemo-qml-plugin-settings
+	url = git@github.com:NemoOnManjaro/nemo-qml-plugin-settings.git
+	branch = main
+[submodule "nemo-qml-plugin-folderlistmodel"]
+	path = nemo-qml-plugin-folderlistmodel
+	url = git@github.com:NemoOnManjaro/nemo-qml-plugin-folderlistmodel.git
+	branch = main
+[submodule "nemo-qml-plugin-dbus"]
+	path = nemo-qml-plugin-dbus
+	url = git@github.com:NemoOnManjaro/nemo-qml-plugin-dbus.git
+	branch = main
+[submodule "ofono"]
+	path = ofono
+	url = git@github.com:NemoOnManjaro/ofono.git
+	branch = main
+[submodule "glib2"]
+	path = glib2
+	url = git@github.com:NemoOnManjaro/glib2.git
+	branch = main
+[submodule "nemo-qml-plugin-social"]
+	path = nemo-qml-plugin-social
+	url = git@github.com:NemoOnManjaro/nemo-qml-plugin-social.git
+	branch = main
+[submodule "qt6-feedback"]
+	path = qt6-feedback
+	url = git@github.com:NemoOnManjaro/qt6-feedback.git
+	branch = main
+[submodule "libdbuslog"]
+	path = libdbuslog
+	url = git@github.com:NemoOnManjaro/libdbuslog.git
+	branch = main
+[submodule "libdbusaccess"]
+	path = libdbusaccess
+	url = git@github.com:NemoOnManjaro/libdbusaccess.git
+	branch = main
+[submodule "libwspcodec"]
+	path = libwspcodec
+	url = git@github.com:NemoOnManjaro/libwspcodec.git
+	branch = main
+[submodule "libglibutil"]
+	path = libglibutil
+	url = git@github.com:NemoOnManjaro/libglibutil.git
+	branch = main
+[submodule "qt6-old-features"]
+	path = qt6-old-features
+	url = git@github.com:NemoOnManjaro/qt6-old-features.git
+	branch = main
+[submodule "nemo-theme-glacier"]
+	path = nemo-theme-glacier
+	url = git@github.com:NemoOnManjaro/nemo-theme-glacier.git
+	branch = main
