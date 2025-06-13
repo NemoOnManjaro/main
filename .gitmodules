@@ -518,3 +518,6 @@
 	path = nemo-theme-glacier
 	url = git@github.com:NemoOnManjaro/nemo-theme-glacier.git
 	branch = main
+[submodule "glacier-welcome"]
+	path = glacier-welcome
+	url = git@github.com:NemoOnManjaro/glacier-welcome.git
