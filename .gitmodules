@@ -521,3 +521,4 @@
 [submodule "glacier-welcome"]
 	path = glacier-welcome
 	url = git@github.com:NemoOnManjaro/glacier-welcome.git
+	branch = main
